@@ -1,0 +1,11 @@
+C:\Users\Top\source\repos\myQrCode\myQrCode\bin\Release\myQrCode.exe.config
+C:\Users\Top\source\repos\myQrCode\myQrCode\bin\Release\myQrCode.exe
+C:\Users\Top\source\repos\myQrCode\myQrCode\bin\Release\myQrCode.pdb
+C:\Users\Top\source\repos\myQrCode\myQrCode\bin\Release\Gma.QrCodeNet.Encoding.dll
+C:\Users\Top\source\repos\myQrCode\myQrCode\bin\Release\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Top\source\repos\myQrCode\myQrCode\bin\Release\Gma.QrCodeNet.Encoding.xml
+C:\Users\Top\source\repos\myQrCode\myQrCode\obj\Release\myQrCode.csprojAssemblyReference.cache
+C:\Users\Top\source\repos\myQrCode\myQrCode\obj\Release\myQrCode.csproj.CoreCompileInputs.cache
+C:\Users\Top\source\repos\myQrCode\myQrCode\obj\Release\myQrCode.csproj.CopyComplete
+C:\Users\Top\source\repos\myQrCode\myQrCode\obj\Release\myQrCode.exe
+C:\Users\Top\source\repos\myQrCode\myQrCode\obj\Release\myQrCode.pdb

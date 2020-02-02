@@ -1,0 +1,16 @@
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\bin\Debug\Arduino_MIDI.exe.config
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\bin\Debug\Arduino_MIDI.exe
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\bin\Debug\Arduino_MIDI.pdb
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\obj\Debug\Arduino_MIDI.csprojAssemblyReference.cache
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\obj\Debug\MainWindow.g.cs
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\obj\Debug\App.g.cs
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\obj\Debug\Arduino_MIDI_MarkupCompile.cache
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\obj\Debug\Arduino_MIDI_MarkupCompile.lref
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\obj\Debug\MainWindow.baml
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\obj\Debug\Arduino_MIDI.g.resources
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\obj\Debug\Arduino_MIDI.Properties.Resources.resources
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\obj\Debug\Arduino_MIDI.csproj.GenerateResource.cache
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\obj\Debug\Arduino_MIDI.csproj.CoreCompileInputs.cache
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\obj\Debug\Arduino_MIDI.exe
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\obj\Debug\Arduino_MIDI.pdb
+C:\Users\Top\source\repos\Lab\Arduino_MIDI\obj\Debug\Arduino_MIDI.csproj.CopyComplete

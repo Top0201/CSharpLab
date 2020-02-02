@@ -8,7 +8,7 @@
 ## 功能概述
 
 + 程序运行效果图
-  !(markdown)(img/lab4.JPG)
+  ![](img/lab4.JPG)
 + 该程序为使用wpf实现的app应用，能够实现pc和arduino的数据交互图形化可视界面呈现
 + 用户可在发送框中发送指定的midi命令，arduino执行相应的操作。显示框中显示arduino传给pc的midi格式数据；下方的zedgraph中在pc收到温度和光强数据时进行曲线绘图；用户可拉动led的滑动条对led的亮度进行控制；log开始可对温度，光强，led的pwm状态数据进行日志记录，文件格式为json；log结束可对日志文件进行保存；取消按钮将丢弃当前日志的记录数据。
 
@@ -35,7 +35,7 @@
 
 ## 知识点总结图
 
-!(markdown)(img/lab4_codeMap.JPG)
+![](img/lab4_codeMap.JPG)
 
 ## 结论
 
